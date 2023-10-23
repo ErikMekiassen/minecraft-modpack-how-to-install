@@ -5,21 +5,21 @@ layout: '../../layouts/Docs.astro'
 
 # Introduction
 
-Show off your server, document your projects, build with blocks, display items and paintings, create game like GUIs, and tons more! This is a complete Minecraft theme with a documentation template built using Astro and Tailwindcss. This theme provides easy to use classes for styling and provides a few pages pages, two layouts, and two components as examples on how to use these classes. The purpose of this theme is to provide a quick and easy way for Minecraft developers and content creators to create documention and show off their creations
+Dette er kansje Norges kuleste server, I denne serveren kan du raide kule caves med enda kulere monstere. i tilleg kan du bygge fete byer og ta med boisNgirlsa(ikke at dere får noen) med på episke campaigns mot NPCs byer får så å flytte inn i dem.
 
 ## **Features**
+instraller Curse forge
+når installert kommer du til minecraft siden og my modpacks
+trykk på "+ create custom profile" og endre minecraft version 1.20.1 og game type forge
+mod loader version forge-47.2.0
 
-- Display over 200+ items
-- Build with 100+ blocks
-- Repeating block backgrounds
-- All 25 paintings
-- Block based units/sizes
-- Create GUIs using panels, slots, and buttons
-- Misc UIs like maps, books, signs, and more
-- Minecraft typography using the Minecraft's font, text colors, and text shadows
-- 75+ Minecraft themed colors
-- Markdown theme
-- Documentation system
+trykk på de tre prikkene vedsiden av play og "Open Folder" så åpne mods folderen og dra over modsa fra modsa filen inn i den.
+så start da har du mc modpack :)
+
+- magi and shit
+- Tid waster og søvn tyv
+- voicechat i minecraft
+- husker egt ikke balder lagde lista
 
 ## Blocks
 
